@@ -29,7 +29,7 @@ python script.py 'https://example.com/some-long-url'
 ```
 python script.py 'https://vk.cc/xxxxxx'
 ```
-### Пример подсчета количества кликов:
+### Пример подсчета количества кликов
 ```
 Количество кликов: 123
 ```

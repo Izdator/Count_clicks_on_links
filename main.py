@@ -36,7 +36,6 @@ if __name__ == '__main__':
     load_dotenv()
     parser = argparse.ArgumentParser()
     parser.add_argument('user_url', type=str)
-    parser.add_argument('--token', type=str, default=os.environ.get("API_VK_TOKEN"))
 
     args = parser.parse_args()
 
